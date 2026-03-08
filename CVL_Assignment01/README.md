@@ -6,7 +6,7 @@
 
 ## Overview
 
-This assignment implements various image enhancement techniques in Python using OpenCV, NumPy, and Matplotlib. Each technique addresses different image problems through mathematical transformations and filters.
+This assignment implements various image enhancement techniques in Python using OpenCV, NumPy, and Matplotlib. Each technique addresses different image problems through mathematical transformations and filters. The notebook is available on `CVL_Assignment01.ipynb` in this folder.
 
 ## Techniques Implemented
 
