@@ -1,7 +1,10 @@
-cv2_ideas.md
 /pkac-venv/
 requirements.txt
 /archive/
 /scratch/
 
 latex-paper/
+archive (2)/
+
+*md
+!README.md
